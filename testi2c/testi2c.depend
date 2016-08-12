@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1448222927 source:/home/pi/Desktop/prog/testi2c/main.cpp
+	<stdio.h>
+	<iostream>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<iostream>
+	<linux/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<glib.h>
+	<math.h>
+	"roboti2c.cpp"
+	"robotservo.cpp"
+	"robotarduino.cpp"
+
+1447101442 /home/pi/Desktop/prog/testi2c/pca9685.h
+
+1425833973 /home/pi/Desktop/prog/testi2c/wiringPi/wiringPi.h
+
+1447101442 /home/pi/Desktop/prog/testi2c/pca9685.c
+	<wiringPi.h>
+	<wiringPiI2C.h>
+	"pca9685.h"
+
+1425833973 /home/pi/Desktop/prog/testi2c/wiringPi/wiringPiI2C.h
+
+1448219778 /home/pi/Desktop/prog/testi2c/roboti2c.c
+	<stdio.h>
+	<iostream>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<iostream>
+	<linux/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<glib.h>
+	<math.h>
+
+1448222019 /home/pi/Desktop/prog/testi2c/roboti2c.cpp
+	<stdio.h>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<iostream>
+	<linux/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<math.h>
+
+1448219870 source:/home/pi/Desktop/prog/testi2c/roboti2c.c
+	<stdio.h>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<linux/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<glib.h>
+	<math.h>
+
+1448222141 /home/pi/Desktop/prog/testi2c/robotservo.cpp
+	<stdio.h>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<iostream>
+	<linux/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<math.h>
+	<math.h>
+
+1448222988 /home/pi/Desktop/prog/testi2c/robotarduino.cpp
+

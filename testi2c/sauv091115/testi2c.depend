@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444943083 source:/home/pi/Desktop/prog/testi2c/main.cpp
+	<stdio.h>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<linux/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<glib.h>
+

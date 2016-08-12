@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1448916074 source:/home/pi/Desktop/prog/V1/main.cpp
+	<iostream>
+	<unistd.h>
+	</usr/local/include/opencv/cv.h>
+	</usr/local/include/opencv/highgui.h>
+	<string>
+	<sstream>
+	<stdio.h>
+	<proc/readproc.h>
+	<opencv2/opencv.hpp>
+	"roboti2c.cpp"
+	"robotservo.cpp"
+	"robotarduino.cpp"
+	"fonc.cpp"
+	"webcam.cpp"
+
+1448225148 /home/pi/Desktop/prog/V1/webcam.cpp
+	<iostream>
+	<unistd.h>
+	</usr/local/include/opencv/cv.h>
+	</usr/local/include/opencv/highgui.h>
+	<string>
+	<sstream>
+	<stdio.h>
+	<proc/readproc.h>
+	<opencv2/opencv.hpp>
+
+1448224911 /home/pi/Desktop/prog/V1/fonc.cpp
+
+1448222019 /home/pi/Desktop/prog/V1/roboti2c.cpp
+	<stdio.h>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<iostream>
+	<linux/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<math.h>
+
+1448917506 /home/pi/Desktop/prog/V1/robotservo.cpp
+	<stdio.h>
+	<fcntl.h>
+	<linux/i2c-dev.h>
+	<iostream>
+	<linux/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<math.h>
+	<math.h>
+
+1448224816 /home/pi/Desktop/prog/V1/robotarduino.cpp
+
